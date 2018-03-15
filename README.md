@@ -1,5 +1,4 @@
 # ut-inf-pc-v9-6-startworkflow-linux
-# ut-inf-pc-startworkflow-linux
 # Abstract: 
 
 This Universal Task allows to schedule an Informatica Power Center Workflow by calling the Power Center Webservices Hub SOAP command “startWorkflow”.
