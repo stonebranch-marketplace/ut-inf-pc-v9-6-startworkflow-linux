@@ -59,7 +59,7 @@ Note: Only the module requests need to be added to python 3.6.3
 The following describes the installation steps:
 **1.	Install Python 2.7.x or 3.6.x for Linux on the Universal Controller server or any Linux Server running a Universal Agent.** 
 
-   Official Download link: 17TUhttps://www.python.org/downloads/U17T
+   Official Download link: https://www.python.org/downloads/
    Note:
 
    In most cases python is already available on Linux. Check availability with: python -V
